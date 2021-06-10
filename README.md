@@ -1,1 +1,21 @@
-01010011 01101111 00100000 01111001 01101111 01110101 00100000 01110101 01110011 01100101 01100100 00100000 01100001 00100000 01110111 01100101 01100010 00100000 01110100 01101111 01101111 01101100 00100000 01110100 01101111 00100000 01100100 01100101 01100011 01101111 01100100 01100101 00101100 00100000 01100100 01101001 01100100 01101110 00100111 01110100 00100000 01111001 01101111 01110101 00111111 00100000 
+Life is opportunity, benefit from it.<br>
+Life is beauty, admire it.<br>
+Life is bliss, taste it.<br>
+Life is a dream, realize it.<br>
+Life is a challenge, meet it.<br>
+Life is a duty, complete it.<br>
+Life is a game, play it.<br>
+Life is a promise, fulfill it.<br>
+Life is sorrow, overcome it.<br>
+Life is a song, sing it.<br>
+Life is a struggle, accept it.<br>
+Life is a tragedy, confront it.<br>
+Life is an adventure, dare it.<br>
+Life is luck, make it.<br>
+Life is precious, do not destroy it.<br>
+Life is suffering, understand it.<br>
+Life is short, enjoy it.<br>
+
+
+
+

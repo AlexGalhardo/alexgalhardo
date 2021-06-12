@@ -16,6 +16,8 @@ Life is precious, do not destroy it.<br>
 Life is suffering, understand it.<br>
 Life is short, enjoy it.<br>
 
+<strong>"Computers are like humans: They do everything except think"</strong> - John von Neumann
+
 
 
 

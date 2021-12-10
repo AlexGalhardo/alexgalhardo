@@ -1,4 +1,6 @@
-A very curious human being who likes a lot to learn all things about digital technology.
+<h3><strong>A very curious human being who likes a lot to learn all things about digital technology.</strong></h3>
+
+Linkedin: https://www.linkedin.com/in/alexgalhardo/
 
 RocketSeat: https://app.rocketseat.com.br/me/alex-galhardo
 

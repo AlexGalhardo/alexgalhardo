@@ -21,7 +21,7 @@ In my spare time, I like to play videogames, read books, play sports, watch good
 
 I'm not fluent in english (speaking) yet, but I understand a lot reading and listening.
 
-<h3><strong>"Computers are like humans: They do everything except think."</strong> - John von Neumann</h3>
+<strong>"Computers are like humans: They do everything except think."</strong> - John von Neumann
 
 
 

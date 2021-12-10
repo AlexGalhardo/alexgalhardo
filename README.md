@@ -17,10 +17,6 @@ I know somethings about:
 
 I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir) and React Native.
 
-In my spare time, I like to play videogames, read books, play sports, watch good movies and tv shows, talk and learn cool things from interesting people, and of course, program personal projects :b
-
-I'm not fluent in english (speaking) yet, but I understand a lot reading and listening.
-
 <strong>"Computers are like humans: They do everything except think."</strong> - John von Neumann
 
 

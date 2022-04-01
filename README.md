@@ -15,7 +15,7 @@ I know somethings about:
 - DevOps (Apache, NGINX, Docker, Git, Linux, Cloudflare, DigitalOcean, Heroku, etc)
 - APIs (REST, GraphQL, JSON, JWT, Oauth2, Postman, Stripe, etc)
 
-I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir) and React Native.
+I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir), Golang and React Native.
 
 <strong>"Computers are like humans: They do everything except think."</strong> - John von Neumann
 

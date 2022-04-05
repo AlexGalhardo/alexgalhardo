@@ -12,7 +12,7 @@ I know somethings about:
 - PHP, Wordpress, Laravel
 - PostgreSQL, MySQL, MongoDB and Redis
 - Software Engineering (Clean Code, MVC, 12FactorApp, Unit Tests, TDD, etc)
-- DevOps (Apache, NGINX, Docker, Git, Linux, Cloudflare, DigitalOcean, Heroku, etc)
+- DevOps (Apache, NGINX, Docker, Kubernetes, Git, Linux, Cloudflare, DigitalOcean, Heroku, etc)
 - APIs (REST, GraphQL, JSON, JWT, Oauth2, Postman, Stripe, etc)
 
 I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir), Golang and React Native.

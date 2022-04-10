@@ -2,8 +2,6 @@
 
 Linkedin: https://www.linkedin.com/in/alexgalhardo/
 
-RocketSeat: https://app.rocketseat.com.br/me/alex-galhardo
-
 Documenting my studies: https://galhardo-dev.netlify.app
 
 I know somethings about:

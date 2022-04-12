@@ -1,5 +1,7 @@
 <h3><strong>A very curious human being who likes a lot to learn all things about digital technology.</strong></h3>
 
+Galhardo Blog: https://galhardo.dev
+
 Linkedin: https://www.linkedin.com/in/alexgalhardo/
 
 Documenting my studies: https://galhardo-dev.netlify.app

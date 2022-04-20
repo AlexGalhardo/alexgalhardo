@@ -19,7 +19,7 @@ I know somethings about:
 
 I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir), Golang and React Native.
 
-The more I study and learn, the less I know. And the less I know, the more I want to know. This is probably what motivates me the most in life.
+<strong>The more I study and learn, the less I know. And the less I know, the more I want to know. This is probably what motivates me the most in life.</strong>
 
 
 

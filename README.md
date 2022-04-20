@@ -17,7 +17,7 @@ I know somethings about:
 
 I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir), Golang and React Native.
 
-<strong>"Computers are like humans: They do everything except think."</strong> - John von Neumann
+The more I study and learn, the less I know. And the less I know, the more I want to know. This is probably what motivates me the most in life.
 
 
 

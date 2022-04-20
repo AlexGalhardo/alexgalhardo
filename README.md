@@ -6,6 +6,8 @@ Linkedin: https://www.linkedin.com/in/alexgalhardo/
 
 Documenting my studies: https://galhardo-dev.netlify.app
 
+Stackoverflow Profile: https://stackoverflow.com/users/8179408/alex
+
 I know somethings about:
 
 - JavaScript, TypeScript, NodeJS, and AdonisJS

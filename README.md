@@ -10,7 +10,7 @@ Stackoverflow Profile: https://stackoverflow.com/users/8179408/alex
 
 I know somethings about:
 
-- JavaScript, TypeScript, NodeJS, and AdonisJS
+- JavaScript, TypeScript, NodeJS, ReactJS, NextJS and AdonisJS
 - PHP, Wordpress, Laravel
 - PostgreSQL, MySQL, MongoDB and Redis
 - Software Engineering (Clean Code, MVC, 12FactorApp, Unit Tests, TDD, etc)

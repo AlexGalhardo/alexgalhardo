@@ -4,7 +4,7 @@ Galhardo Blog: https://galhardo.dev
 
 Linkedin: https://www.linkedin.com/in/alexgalhardo/
 
-Documenting my studies: https://galhardo-dev.netlify.app
+Documenting my studies: https://galhardo-docs.netlify.app/
 
 Stackoverflow Profile: https://stackoverflow.com/users/8179408/alex
 

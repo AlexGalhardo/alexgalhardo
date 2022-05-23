@@ -17,7 +17,9 @@ I know somethings about:
 - DevOps (Apache, NGINX, Docker, Kubernetes, Git, Linux, Cloudflare, DigitalOcean, Heroku, etc)
 - APIs (REST, GraphQL, JSON, JWT, Oauth2, Postman, Stripe, etc)
 
-I also have interest to learn and work with Elixir (PhoenixFramework/Gigalixir), Golang and React Native.
+I've been learning more about Elixir, DevOps and Clean Architecture these past few months.
+
+I also have interest to learn and work with Golang and React Native.
 
 <strong>The more I study and learn, the less I know. And the less I know, the more I want to know. This is probably what motivates me the most in life.</strong>
 

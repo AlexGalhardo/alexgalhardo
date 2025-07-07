@@ -6,12 +6,14 @@
    - An social network for paid questions and answers.
    - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity.
    - For Brazil people paying with PIX.
+   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI
 
 [Askedly.com](https://askedly.com)
    - The same source code of RespondeAe.com.br but for international people using Stripe.
 
 [Prompt-Dude.com](https://prompt-dude.com)
    - A simple blog focused on Omni-Channel SEO and SERP otimization using Artificial Intelligence content creation focused on teaching and talking about Prompt Engineering techniques and general A.I topics.
+   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, BiomeJS, Shadcn-UI
 
 [Rich-Dude.com](https://prompt-dude.com)
    - The same source code of Prompt-Dude.com focused on finances, investments, businesses, and criptocurrencies.

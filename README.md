@@ -6,7 +6,7 @@
    - An social network for paid questions and answers.
    - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity.
    - For Brazil people paying with PIX.
-   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI
+   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, Resend, React-Email, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI
 
 [Askedly.com](https://askedly.com)
    - The same source code of RespondeAe.com.br but for international people using Stripe.

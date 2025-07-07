@@ -1,4 +1,4 @@
-# Hi, I'm Alex Galhardo, from Brazil 🇧🇷! 👋
+# Hi, I'm Alex Galhardo, from Brazil 🇧🇷👋
 
 ## Building in my spare time 👨‍💻
 

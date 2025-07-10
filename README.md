@@ -13,7 +13,7 @@
 
 [Prompt-Dude.com](https://prompt-dude.com)
    - A simple blog focused on Omni-Channel SEO and SERP otimization using Artificial Intelligence content creation focused on teaching and talking about Prompt Engineering techniques and general A.I topics.
-   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, BiomeJS, Shadcn-UI, Google Tools, Microsoft Clarity
+   - Tech Stack: NextJS v15 app router, MDX, TypeScript, TailwindCSS, Vercel, BiomeJS, Shadcn-UI, Google Tools, Microsoft Clarity
 
 [Rich-Dude.com](https://prompt-dude.com)
    - The same source code of Prompt-Dude.com focused on finances, investments, businesses, and criptocurrencies.

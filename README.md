@@ -12,7 +12,7 @@
    - The same source code of RespondeAe.com.br but for international people using Stripe.
 
 [Prompt-Dude.com](https://prompt-dude.com)
-   - A simple blog focused on Omni-Channel SEO and SERP otimization using Artificial Intelligence content creation focused on teaching and talking about Prompt Engineering techniques and general A.I topics.
+   - A simple blog focused on Generative Engine Optimization (GEO), SEO and SERP otimization using Artificial Intelligence content creation focused on teaching and talking about Prompt Engineering techniques and general A.I topics.
    - Tech Stack: NextJS v15 app router, MDX, TypeScript, TailwindCSS, Vercel, BiomeJS, Shadcn-UI, Google Tools, Microsoft Clarity
 
 [Rich-Dude.com](https://rich-dude.com)

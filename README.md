@@ -3,7 +3,7 @@
 ## Building in my spare time 👨‍💻
 
 [RespondeAe.com.br (BETA)](https://respondeae.com.br)
-   - An social network for paid questions and answers.
+   - A social network for paid questions and answers.
    - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity.
    - For Brazil people paying with PIX.
    - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, Github Actions, Resend, React-Email, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI, Google Tools, Microsoft Clarity

@@ -3,7 +3,6 @@
 ## Side Projects 👨‍💻
 
 [Askedly.com](https://askedly.com)
-   - The same source code of RespondeAe.com.br but for international people 
    - A social network for paid questions and answers.
    - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity. Using Stripe.
    - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, Github Actions, Resend, React-Email, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI, Google Tools, Microsoft Clarity

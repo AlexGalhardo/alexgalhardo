@@ -2,7 +2,7 @@
 
 ## Side Projects 👨‍💻
 
-[Askedly.com (BETA)](https://askedly.com)
+[Askedly.com](https://askedly.com)
    - The same source code of RespondeAe.com.br but for international people 
    - A social network for paid questions and answers.
    - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity. Using Stripe.

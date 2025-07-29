@@ -1,15 +1,12 @@
 # Hi, I'm Alex Galhardo, from Brazil 🇧🇷👋
 
-## Building in my spare time 👨‍💻
-
-[RespondeAe.com.br (BETA)](https://respondeae.com.br)
-   - A social network for paid questions and answers.
-   - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity.
-   - For Brazil people paying with PIX.
-   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, Github Actions, Resend, React-Email, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI, Google Tools, Microsoft Clarity
+## Side Projects 👨‍💻
 
 [Askedly.com (BETA)](https://askedly.com)
-   - The same source code of RespondeAe.com.br but for international people using Stripe.
+   - The same source code of RespondeAe.com.br but for international people 
+   - A social network for paid questions and answers.
+   - Here, you can ask public, private, or anonymous questions to people you're interested in — whether you're looking for advice, knowledge sharing, or just out of curiosity. Using Stripe.
+   - Tech Stack: NextJS v15 app router, TypeScript, TailwindCSS, Vercel, PostgreSQL, Github Actions, Resend, React-Email, PrismaORM, Zod, BiomeJS, React-Query, AbacatePay, Shadcn-UI, Google Tools, Microsoft Clarity
 
 [Prompt-Dude.com](https://prompt-dude.com)
    - A simple blog focused on Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), SEO and SERP otimization using Artificial Intelligence content creation focused on teaching and talking about Prompt Engineering techniques and general A.I topics.
